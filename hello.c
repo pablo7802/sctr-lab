@@ -2,8 +2,8 @@
 
 int main()
 {
-    printf("Hola Mundo");
-    printf("Nueva linea");
+    printf("Hola Donald");
+    
 
     return 0;
 }
